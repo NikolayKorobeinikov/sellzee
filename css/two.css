@@ -1,0 +1,142 @@
+.second__block {
+    background-color: rgba(255, 249, 245, 1);
+    padding-left: 14.5%;
+    padding-right: 14.5%;
+    padding-top: 5.25rem;
+    padding-bottom: 4.66rem;
+}
+
+.first__three__blocks,
+.second__part {
+    display: flex;
+    gap: 1.87rem;
+}
+
+.future__vision {
+    width: 22.375rem;
+    /* border: 1px solid; */
+}
+
+.vision,
+.creative__ideas,
+.p__blog {
+    font-size: 1.25rem;    
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+}
+
+.vision {
+    color: #FF5A05;
+    letter-spacing: 0.0625rem;
+    text-transform: uppercase;
+}
+
+.committ {
+    color: #05000B;
+    font-size: 1.81rem;
+    /* font-size: 1.93rem;  */
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+    margin-top: 0.94rem;
+    margin-bottom: 1.25rem;
+}
+
+.same__text,
+.text__blog,
+.text__lorem__second_block{
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+}
+
+.same__text,
+.text__blog {
+    color: #05000B;
+    opacity: 0.699;
+}
+
+.ideas,
+.four__same__blogs {
+    width: 22.375rem;
+    height: 16.5625rem;
+    border-radius: 0.625rem;
+}
+
+.ideas {
+    background-color: rgba(66, 82, 207, 1);
+    color: rgba(255, 255, 255, 1);
+    padding-top: 2.12rem;
+    padding-left: 2.45rem;
+}
+
+.light {
+    width: 3.41881rem;
+    height: 3.5625rem;
+}
+
+.creative__ideas {
+    color: #FFF;
+    margin-top: 1.25rem;
+}
+
+.text__lorem__second_block {
+    color: #FFF;
+    opacity: 0.800000011920929;
+    margin-top: 0.56rem;
+}
+
+.pen {
+    width: 3.5625rem;
+    height: 2.89788rem;
+}
+
+.four__same__blogs {
+    background-color: #FFF;
+    padding-left: 2.38rem;
+    padding-top: 1.54rem;
+}
+
+.p__blog {
+    color: #05000B;
+    margin-top: 1.25rem;
+}
+
+.second__part {
+    margin-top: 1.87rem;
+}
+
+.friends {
+    width: 3.5625rem;
+    height: 3.11538rem;
+}
+
+.two {
+    padding-top: 3.57rem;
+}
+
+.showcases {
+    width: 3.56325rem;
+    height: 3.56256rem;
+}
+
+.three {
+   padding-top: 3.13rem;
+}
+
+.hand {
+    width: 2.91413rem;
+    height: 3.55838rem;
+}
+
+.four {
+    padding-top: 3.25rem;
+}
+
+
+
+
+
+

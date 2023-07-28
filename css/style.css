@@ -1,0 +1,65 @@
+@import "header.css";
+@import "one.css";
+@import "two.css";
+@import "three.css";
+@import "four.css";
+@import "footer.css";
+
+
+* {
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+@media (max-width: 1200px) {
+    html {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 992px) {
+    html {
+        font-size: 11px;
+    }
+}
+
+/* @media (max-width: 768px) {
+    html {
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 576px) {
+    html {
+        font-size: 6px;
+    }
+} */

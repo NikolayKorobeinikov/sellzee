@@ -1,0 +1,166 @@
+.header__page {
+  background: linear-gradient(249deg, #2e43f0, #67f);
+}
+
+.header__nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 14.5%;
+  padding-right: 14.5%;
+  padding-top: 3.68rem;
+}
+
+.menu {
+  display: none;
+}
+
+.logo {
+  width: 10.25rem;
+  height: 2.71069rem;
+}
+
+.list__item {
+  display: flex;
+  gap: 1.81rem;
+}
+
+.fa-bars {
+  color: #e7e6ef;
+  font-size: 2rem;
+}
+
+.btn__select {
+  padding: 0.9375rem 1.875rem;
+  border-radius: 0.25rem;
+  background: #ff5a05;
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 160%;
+}
+
+.bg__none {
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  margin-left: 2.75rem;
+}
+
+.header__technology {
+  width: 29rem;
+}
+
+.list__element a {
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 160%;
+  opacity: 0.699999988079071;
+}
+
+.line {
+  border-bottom: 0.0625rem solid #ffffff;
+  margin-top: 1.25rem;
+  margin-bottom: 1.312rem;
+  width: 22.81rem;
+}
+
+.header__description {
+  display: flex;
+  padding-left: 14.5%;
+  padding-right: 7.4%;
+
+}
+
+.technology {
+  color: #ffffff;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 160%;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-top: 5.09rem;
+}
+
+.header__paragraph {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.93rem;
+}
+
+.p__fast {
+  color: #fff;
+  font-size: 3.81rem;
+  font-weight: 700;
+  line-height: 120%;
+}
+
+.p__price {
+  color: #fff;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 120%;
+}
+
+.header__text {
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 160%;
+  opacity: 0.699999988079071;
+}
+.btn__header {
+  margin-top: 2.68rem;
+}
+
+.monitor {
+  width: 50.72rem;
+  height: 36.82rem;
+}
+
+/* @media (max-width: 1100px) {
+  .header__page {
+    padding-bottom: 2rem;
+  }
+  
+  .monitor {
+    width: 40.57rem;
+    height: 29.45rem;
+  }
+}
+
+@media (max-width: 992px) {
+    .header__nav {
+        padding-left: 10.5%; 
+        padding-right: 10.5%;
+    }
+    .header__description {
+      flex-direction: column;
+    }
+
+    .technology {
+      margin-top: 2.5rem;
+    }
+
+    .monitor {
+      margin-top: 2.5rem;
+    }
+}
+
+@media (max-width: 870px) {
+  .list__item {
+    display: none;
+  }
+
+  .menu {
+    display: block;
+    padding-top: 1.25rem;
+  } 
+}
+
+@media (max-width: 650) {
+  .monitor {
+    width: 32.45rem;
+    height: 23.56rem;
+  }
+} */

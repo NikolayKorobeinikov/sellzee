@@ -1,0 +1,84 @@
+footer {
+    background-color: #000848;
+    width: 100%;
+}
+
+.end {
+    display: flex;
+    padding-left: 14.56%;
+    padding-right: 16.06%;
+}
+
+.bgc_footer {
+    padding-top: 7.25rem;
+}
+
+.media {
+    display: flex;
+    gap: 0.93rem;
+    margin-top: 1.62rem;
+}
+
+.facebook,
+.twitter,
+.instagram,
+.youtube {
+    background: url(../images/Ellipse\ 7.png) no-repeat;
+    background-size: cover;
+    /* border: 1px solid; */
+    width: 2.53125rem;
+    height: 2.53125rem;
+}
+
+.facebook {
+    padding: 0.64rem 0.95rem;
+}
+
+.twitter {
+    padding: 0.82rem 0.72rem;
+}
+
+.instagram {
+    padding: 0.72rem;
+}
+
+.youtube {
+    padding: 0.74rem 0.68rem;
+}
+
+.links__grid {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 4.31rem; /* 69px */
+    padding-top: 6.86rem;
+    padding-bottom: 10.63rem;
+    margin-left: 11.29rem;
+}
+
+.links {
+    color: #FFF;
+    text-align: left;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+}
+
+.same__txt {
+    color: #FFF;
+    text-align: left;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%; 
+    opacity: 0.800000011920929;
+    margin-top: 1.25rem;
+    margin-bottom: 0.62rem;
+}
+
+/* @media (max-width: 1100px) {
+    .end {
+        padding-left: 9.56%;
+        padding-right: 13.06%;
+    }
+} */

@@ -1,0 +1,186 @@
+.s__three {
+    padding-left: 14.5%;
+    padding-right: 14.5%;
+}
+
+.review {
+    color: #05000B;
+    font-size: 3.0625rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    text-align: center;
+    margin-top: 6.65rem;
+}
+
+.projects {
+    /* width: 30.87rem; */
+    padding-right: 34.5%;
+    padding-left: 34.5%;
+}
+
+.projects__and__clients {
+    margin-top: 1.56rem;
+    text-align: center;
+    color: #05000B;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    opacity: 0.699999988079071;
+}
+
+.user__review {
+    position: relative;
+    margin-top: 4.31rem;
+    width: 100%;
+    height: 31.56rem;
+    /* border: 1px solid; */
+}
+
+.about {
+    position: absolute;
+    z-index: 4;
+}
+
+.say__about {
+    color: #05000B;
+    font-size: 1.9375rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+}
+
+.davit {
+    background: url(../images/Rectangle\ 25.png) no-repeat;
+    width: 23.3125rem;
+    height: 8.0625rem;
+    background: #FFF;
+    box-shadow: 13px 13px 31px 0px rgba(0, 0, 0, 0.05);
+    position: absolute;
+    top: 7.755rem;
+    z-index: 3;
+}
+
+.his__name {
+    color: #05000B;
+    font-size: 1.5625rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+}
+
+.company {
+    color: #05000B;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    opacity: 0.800000011920929;
+}
+
+ .review__text {
+    background: url(../images/Rectangle\ 24.png) no-repeat;
+    width: 40.9375rem;
+    height: 14.75rem;
+    background: #FFF;
+    box-shadow: 0.81rem 0.81rem 1.93rem 0rem rgba(0, 0, 0, 0.05);
+    position: absolute;
+    top: 11.5rem;
+    z-index: 2;
+    
+} 
+
+.stars img {
+    width: 12.5rem;
+    height: 2rem;
+    margin-top: 1.88rem;
+    margin-left: 26.56rem; 
+}
+
+.content__text {
+    width: 32.1875rem;
+    height: 4.625rem;
+    /* padding-top: 8.25rem;
+    padding-left: 1.87rem; */ /* или же задать на div padding??? как лучше поступить?? */
+    
+}
+
+.review__content {
+    color: #05000B;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 160%;
+    margin-top: 4rem;
+    margin-left: 1.87rem; 
+}
+
+.smiling__man {
+    width: 32.81rem;
+    height: 31.56rem;
+    position: absolute;
+    right: 0;
+    top: 1.18rem;
+}
+
+.quotes {
+    background-color: #1F37FF;
+    border-radius: 3.90625rem 3.90625rem 3.90625rem 0rem;
+    width: 7.8125rem;
+    height: 7.8125rem;
+    position: absolute;
+    right: 0;
+}
+
+.picture__quotes {
+    width: 4.25rem;
+    height: 3rem;
+    /* border: 1px solid; */
+    margin: 2.44rem 1.74rem 2.32rem 1.81rem;
+}
+
+.circles {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    gap: 0.75rem;
+    left: 10rem;
+}
+
+.orange__circle,
+.orange__circle__two {
+    background-color: #FF5A05;
+    width: 3.4375rem;
+    height: 3.4375rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orange__circle {
+    border-radius: 3.91rem 3.91rem 0rem 3.91rem;
+}
+
+.orange__circle__two {
+    border-radius: 3.91rem 3.91rem 3.91rem 0rem ;
+}
+
+.fa-angle-left,
+.fa-angle-right {
+    color: #fff;
+}
+
+@media (max-width: 1350px) {
+    .s__three {
+        padding-left: 11.5%;
+        padding-right: 11.5%;
+    }
+}
+
+@media (max-width: 1250px) {
+    .s__three {
+        padding-left: 10.5%;
+        padding-right: 10.5%;
+    }
+}
